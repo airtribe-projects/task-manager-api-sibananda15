@@ -10,12 +10,15 @@
  - npm
 ### Installation
  - Clone the repository
+   
 ![image](https://github.com/user-attachments/assets/43bcc792-454e-4191-82d0-54a349d8a93d)
 
  -  Install dependencies:
+   
 ![image](https://github.com/user-attachments/assets/b6218050-1e31-4213-a893-f0cfc5b2b092)
 
  - Start the server:
+   
 ![image](https://github.com/user-attachments/assets/6d8ffbd4-d3d9-42ef-83c3-a80608fd18b8)
 
 The server will start running on http://localhost:3000.
